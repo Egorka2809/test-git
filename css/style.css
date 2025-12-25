@@ -1,5 +1,6 @@
 body {
     font-style: italic;
+    font-size: 22px;
     background-color: white;
     transition: all 3s;
 }
